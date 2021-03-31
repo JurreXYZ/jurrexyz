@@ -9,7 +9,7 @@
 
 - ⚡ Geinig feintje **Mijn favoriete restaurant is KFC**
 
-<h3 align="left">Contacteer me:</h3>
+<h3 align="left">Contacteer me via:</h3>
 <p align="left">
 <a href="https://twitter.com/jurrexyz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jurrexyz" height="30" width="40" /></a>
 <a href="https://instagram.com/jurrexyz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jurrexyz" height="30" width="40" /></a>
